@@ -1,0 +1,4 @@
+-r ./requirements.txt
+django-debug-toolbar
+mypy
+django-stubs[compatible-mypy]
